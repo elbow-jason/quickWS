@@ -1,0 +1,23 @@
+{
+  "name": "quickWS",
+  "version": "0.0.0",
+  "description": "A simple, quick websocket example",
+  "main": "quick-ws.js",
+  "scripts": {
+    "test": "no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jlgoldb2/quickWS.git"
+  },
+  "keywords": [
+    "websocket",
+    "node"
+  ],
+  "author": "Jason Goldberger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jlgoldb2/quickWS/issues"
+  },
+  "homepage": "https://github.com/jlgoldb2/quickWS"
+}
